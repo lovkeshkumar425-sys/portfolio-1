@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Lovkesh Kumar
 ### Data Analyst | SQL • Power BI • Excel • Tableau • Python
 
@@ -7,30 +8,15 @@
 
 ## 🛠️ Tech Stack
 
-
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-
-
 
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-
-
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-
-
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
 
 ---
 
@@ -46,7 +32,7 @@
 | Student Performance Dashboard | Power BI | [View](https://www.linkedin.com/posts/lovkesh-kumar-b65b6a382_powerbi-dataanalytics-datavisualization-activity-7471178834994745344-cq7I) |
 | Global Layoffs Analysis | Excel | [View](https://www.linkedin.com/posts/lovkesh-kumar-b65b6a382_dataanalysis-layoffs-excel-activity-7449128172505235457-r9PL) |
 
-🔗 **[View Full Portfolio](https://lovkeshkumar425-sys.github.io/Portfolio-/portfolio.html)**
+🔗 **[View Full Portfolio](https://lovkeshkumar425-sys.github.io/portfolio-1/)**
 
 ---
 
@@ -58,8 +44,4 @@
 ---
 
 ## 📊 Connect With Me
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/lovkesh-kumar-b65b6a382)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lovkesh-kumar-b65b6a382)
